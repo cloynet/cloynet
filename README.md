@@ -35,7 +35,7 @@
 
 
 [github]: https://github.com/cloynet
-[twitter]: https://x.com/eeren327
+[x]: https://x.com/eeren327
 [linkedin]: https://www.linkedin.com/in/eren-esenli-028400264/
 
 
