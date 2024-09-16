@@ -10,7 +10,7 @@
 
 [<img width="22" src="https://unpkg.com/simple-icons@v13/icons/github.svg" align="left" />][github]
 
-[<img width="22" src="https://unpkg.com/simple-icons@v13/icons/X.svg" align="left" />][X]
+[<img width="22" src="https://unpkg.com/simple-icons@v13/icons/x.svg" align="left" />][x]
 
 [<img width="22" src="https://unpkg.com/simple-icons@v13/icons/linkedin.svg" align="left" />][linkedin]
 
