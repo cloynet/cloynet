@@ -4,7 +4,7 @@
 
 ## Web Developer | 
 
-<font color="orange">I love tea</font>
+<code><font color="orange">I love tea</font></code>
 
 ### Reach out to me
 
