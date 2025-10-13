@@ -2,14 +2,14 @@
 
 ## Web Developer  
 
-Passionate about crafting modern, fast, and scalable web applications.  
-I focus on clean code, efficient architecture, and delivering a smooth user experience.  
+Passionate about building modern, fast, and scalable web applications.  
+Focused on clean code, performance, and creating great user experiences.  
 
 ---
 
 ### ☕ About Me  
 - 💻 I specialize in **Frontend Development** using **Next.js** and **Node.js**  
-- ☁️ Experienced with **Cloudflare** and **Google Cloud** for deployment and optimization  
+- ☁️ Experienced with **Cloudflare** and **Google Cloud**  
 - 🎨 Occasionally design with **Adobe Illustrator**  
 - 🚀 Always exploring new technologies  
 
@@ -17,16 +17,14 @@ I focus on clean code, efficient architecture, and delivering a smooth user expe
 
 ### 🧠 Tech Stack  
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png" width="40" height="40" title="JavaScript" />
-  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="40" height="40" title="Cloudflare" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" title="Google Cloud" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="40" height="40" title="Adobe Illustrator" />
-  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40" height="40" title="GitLab" />
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" title="GitHub" />
-  <img src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/nextjs/nextjs.png" width="40" height="40" title="Next.js" />
-  <img src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/nodejs/nodejs.png" width="40" height="40" title="Node.js" />
-</p>
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)](https://nodejs.org/)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-black?style=flat&logo=cloudflare)](https://www.cloudflare.com/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-black?style=flat&logo=google-cloud)](https://cloud.google.com/)
+[![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-black?style=flat&logo=adobe-illustrator)](https://www.adobe.com/products/illustrator.html)
+[![GitLab](https://img.shields.io/badge/GitLab-black?style=flat&logo=gitlab)](https://gitlab.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/cloynet)
 
 ---
 
@@ -43,14 +41,11 @@ I focus on clean code, efficient architecture, and delivering a smooth user expe
 
 ---
 
-### 🤝 Connect With Me  
+### 🌍 Socials  
 
-[<img width="25" src="https://unpkg.com/simple-icons@v13/icons/github.svg" />][github]
-[<img width="25" src="https://unpkg.com/simple-icons@v13/icons/linkedin.svg" />][linkedin]
-[<img width="25" src="https://unpkg.com/simple-icons@v13/icons/x.svg" />][x]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eren-esenli-028400264/)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=x&logoColor=white)](https://x.com/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/)  
 
 ---
-
-[github]: https://github.com/cloynet  
-[linkedin]: https://www.linkedin.com/in/eren-esenli-028400264/  
 
