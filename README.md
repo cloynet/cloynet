@@ -44,8 +44,7 @@ Focused on clean code, performance, and creating great user experiences.
 ### 🌍 Socials  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eren-esenli-028400264/)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=x&logoColor=white)](https://x.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/)  
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=x&logoColor=white)](https://x.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/)
 
 ---
-
